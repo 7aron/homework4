@@ -36,7 +36,7 @@ return base * pow(base, n-1)
 
 };
 
-console.log(pow(5, 1));
+console.log(pow(5, 3));
 
 
 //A function called checkerboard using recursion which, given a size argument, will draw an n by n checkerboard on the screen
@@ -116,6 +116,24 @@ const f = function(str){
   }; return llater(length);
 };
 
-  console.log(f("debuluk"));
+  console.log(f("tpircsavaJ"));
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
